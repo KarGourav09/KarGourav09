@@ -7,7 +7,7 @@ Software Engineer and Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [working on it]
 * ✉️  You can contact me at [kar541049@gmail.com](mailto:kar541049@gmail.com)
-* 🚀  I'm currently working on [working on it](http://working on it)
+* 🚀  I'm currently working on DSA learning from Striver's A2Z
 * 🧠  I'm currently learning C++ alongside Full Stack Development
 * 👥  I'm looking to collaborate on \* Collaboration on projects \* Internship opportunities \* Learning from experienced developers \* Networking with like-minded builders
 * 💬  When not coding, I'm probably lost in the pages of a good book or exploring this world through my tiny camera lens.
