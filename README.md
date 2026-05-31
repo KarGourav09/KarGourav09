@@ -4,46 +4,6 @@ Hii, My name is Gourav Kar
 Software Engineer and Web Developer
 -----------------------------------
 
-🚀 \*\*Aspiring Developer | Builder | Tech Explorer\*\*
-
-I’m a passionate and curious developer at the beginning of my journey in the world of technology, focused on turning ideas into real, impactful projects. Currently a first-year college student, I’m actively building my skills in \*\*web development, automation, and problem-solving\*\*, while exploring opportunities that push me to grow beyond the classroom.
-
-💻 I enjoy working on:
-
-\* Frontend & backend web development
-
-\* Automation workflows (n8n, AI tools, scripting)
-
-\* Open-source contributions and real-world projects
-
-\* Building practical solutions rather than just theoretical code
-
-🌱 Right now, I’m focused on:
-
-\* Strengthening my core programming fundamentals
-
-\* Learning modern web technologies and frameworks
-
-\* Exploring AI-powered tools and automation systems
-
-\* Participating in hackathons, internships, and open-source programs
-
-⚡ What drives me:
-
-I believe in \*\*learning by building\*\*. Instead of waiting to be “ready,” I prefer diving into projects, making mistakes, and improving along the way. My goal is to become a developer who not only writes code but \*\*creates meaningful products that solve real problems\*\*.
-
-🎯 Current Goals:
-
-\* Land impactful internships (Web Dev / AI / Automation)
-
-\* Build a strong portfolio of real-world projects
-
-\* Contribute to open source consistently
-
-\* Develop a strong personal brand in tech
-
-🛠️ Tech I’m exploring:
-
 \`HTML\` \`CSS\` \`JavaScript\` \`Git\` \`GitHub\` \`n8n\` \`APIs\` \`Automation Tools\` \*(and growing every day)\*
 
 * 🌍  I'm based in India
