@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Gourav Kar
+Hii, My name is Gourav Kar
 ===================================================================================================================================
 
-Web Developer and Software Engineer
+Software Engineer and Web Developer
 -----------------------------------
 
 🚀 \*\*Aspiring Developer | Builder | Tech Explorer\*\*
