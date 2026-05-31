@@ -1,4 +1,4 @@
-Hii, My name is Gourav Kar
+Hii, I am Gourav Kar
 ===================================================================================================================================
 
 Software Engineer and Web Developer
