@@ -1,15 +1,15 @@
 Hii, I am Gourav Kar
 ===================================================================================================================================
 
-Software Engineer and Web Developer
+AI ML and Software Engineer
 -----------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio and Resume at [working on it]
+* 🖥️  See my portfolio and Resume at [Portfolio-website](https://gourav-kar-portfolio.lovable.app)
 * ✉️  You can contact me at [kar541049@gmail.com](mailto:kar541049@gmail.com)
 * 🚀  I'm currently working on DSA learning from Striver's A2Z
-* 🧠  I'm currently learning C++ alongside Full Stack Development
-* 👥  I'm looking to collaborate on \* Collaboration on projects \* Internship opportunities \* Learning from experienced developers \* Networking with like-minded builders
+* 🧠  I'm currently learning DSA and Web Dev alondside AI & Machine Learning.
+* 👥  I'm looking to \* Collaboration on projects \* Internship opportunities \* Learning from experienced developers \* Networking with like-minded builders
 * 💬  When not coding, I'm probably lost in the pages of a good book or exploring this world through my tiny camera lens.
 
 <p align="left">
