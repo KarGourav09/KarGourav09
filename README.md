@@ -8,7 +8,7 @@
 - 🚀 Currently grinding Striver's A2Z DSA sheet + daily LeetCode
 - 🧠 Learning DSA, Full-Stack Web Dev, and AI/ML in parallel
 - 👥 Open to: project collabs, internships, and connecting with builders
-- 📷 Off-screen: reading or shooting with my camera
+- 📷 Off-screen: reading or playing Football
 
 ---
 
