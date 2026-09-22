@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring **AI/ML and software engineer** from India who enjoys turning ideas into useful products. I'm currently strengthening my fundamentals through **Striver's A2Z DSA Sheet**, daily LeetCode practice, full-stack projects, and hands-on AI/ML learning.
+I'm an aspiring **AI/ML and software engineer** from India who enjoys turning ideas into useful products. I'm currently strengthening my fundamentals through **Striver's A2Z DSA Sheet**, daily LeetCode practice, and hands-on projects.
 
 - 🎓 Studying **B.Tech CSE (AI/ML)** at KIIT University
 - 🚀 Building projects across **AI/ML, full-stack web development, and developer tools**
@@ -101,38 +101,44 @@ I'm an aspiring **AI/ML and software engineer** from India who enjoys turning id
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/KarGourav09">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarGourav09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Gourav's GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarGourav09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="KarGourav09's GitHub statistics" />
   </a>
-  <a href="https://github.com/KarGourav09">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarGourav09&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  <a href="https://github.com/KarGourav09?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarGourav09&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages used by KarGourav09" />
   </a>
-</div>
+</p>
 
-<br />
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/KarGourav09">
-    <img src="https://streak-stats.demolab.com?user=KarGourav09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+    <img src="https://streak-stats.demolab.com?user=KarGourav09&theme=tokyonight&hide_border=true" alt="KarGourav09's GitHub contribution streak" />
   </a>
-</div>
+</p>
 
 ---
 
-## ���� Achievements
+## 🏆 GitHub Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KarGourav09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</div>
+<p align="center">
+  <a href="https://github.com/KarGourav09?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=KarGourav09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub achievement trophies for KarGourav09" />
+  </a>
+</p>
+
+[View native GitHub achievements →](https://github.com/KarGourav09?tab=achievements)
 
 ---
 
 ## 📊 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarGourav09&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/KarGourav09?tab=overview">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarGourav09&theme=tokyo-night&hide_border=true" alt="KarGourav09's GitHub contribution activity graph" />
+  </a>
+</p>
+
+[View full GitHub contribution activity →](https://github.com/KarGourav09?tab=overview)
 
 ---
 
