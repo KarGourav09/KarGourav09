@@ -1,69 +1,145 @@
+<div align="center">
+
 # Hi, I'm Gourav Kar 👋
 
-**AI/ML & Software Engineer · KIIT University (B.Tech CSE, AI/ML)**
+### AI/ML & Software Engineer · B.Tech CSE (AI/ML), KIIT University
 
-- 🌍 Based in India
-- 🖥️ Portfolio: [gourav-kar-portfolio.lovable.app](https://gourav-kar-portfolio.lovable.app)
-- ✉️ Reach me at [kar541049@gmail.com](mailto:kar541049@gmail.com)
-- 🚀 Currently grinding Striver's A2Z DSA sheet + daily LeetCode
-- 🧠 Learning DSA, Full-Stack Web Dev, and AI/ML in parallel
-- 👥 Open to: project collabs, internships, and connecting with builders
-- 📷 Off-screen: reading or playing Football
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="Next.js" title="Next.js" width="36" height="36" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a>
+<p>
+  <a href="https://gourav-kar-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kar541049@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gourav-kar-5168472b5/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/KarGourav09"><img src="https://img.shields.io/github/followers/KarGourav09?label=Follow&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=KarGourav09&style=flat-square&color=0891b2" alt="Profile views" />
+
+</div>
+
 ---
 
-### 🔗 Connect
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://www.github.com/KarGourav09" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </picture>
-</a>
-<a href="https://www.linkedin.com/in/gourav-kar-5168472b5/" target="_blank" rel="noreferrer">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </picture>
-</a>
+I'm an aspiring **AI/ML and software engineer** from India who enjoys turning ideas into useful products. I'm currently strengthening my fundamentals through **Striver's A2Z DSA Sheet**, daily LeetCode practice, full-stack projects, and hands-on AI/ML learning.
+
+- 🎓 Studying **B.Tech CSE (AI/ML)** at KIIT University
+- 🚀 Building projects across **AI/ML, full-stack web development, and developer tools**
+- 🧩 Practicing **DSA and problem solving** consistently
+- 🤝 Open to **internships, collaborations, and connecting with builders**
+- 📚 Off-screen: reading or playing football
+
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" alt="C++, C, Python, JavaScript, TypeScript" />
 </p>
 
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" alt="React, Next.js, Tailwind CSS, Node.js, Express" />
+</p>
+
+### Data, Cloud & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,git,github,vscode" alt="MongoDB, Supabase, Git, GitHub, VS Code" />
+</p>
+
+</div>
+
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<a href="https://github.com/KarGourav09">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=KarGourav09&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show=prs_merged_percentage" />
-</a>
-<a href="https://github.com/KarGourav09">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarGourav09&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&card_width=320" />
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 ClutchAI</h3>
+      <p>An AI agent designed to help manage deadlines by intelligently rescheduling your life around them.</p>
+      <p><b>TypeScript</b> · AI agents · Productivity</p>
+      <a href="https://github.com/KarGourav09/ClutchAI">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌦️ Weather Tracker</h3>
+      <p>A weather-tracking website that displays live data using an external API.</p>
+      <p><b>TypeScript</b> · APIs · GitHub Pages</p>
+      <a href="https://github.com/KarGourav09/weather-tracker">View repository</a> · <a href="https://kargourav09.github.io/weather-tracker/">Live demo →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 DSA & LeetCode Questions</h3>
+      <p>A growing collection of data structures, algorithms, and LeetCode practice solutions.</p>
+      <p><b>C++</b> · DSA · Problem solving</p>
+      <a href="https://github.com/KarGourav09/DSA_and_Leetcode_Questions">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 CS50 Final Project</h3>
+      <p>A final project built while exploring the foundations of computer science and web development.</p>
+      <p><b>CSS</b> · Web development · CS50</p>
+      <a href="https://github.com/KarGourav09/cs50_final_project">View repository →</a>
+    </td>
+  </tr>
+</table>
 
-<br /><br />
+<details>
+  <summary><b>More projects</b></summary>
+  <br />
 
-<a href="https://github.com/KarGourav09">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarGourav09&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
+  - <a href="https://github.com/KarGourav09/SuwaranSetuSIH"><b>SuwaranSetuSIH</b></a> — A Smart India Hackathon project repository.
+  - <a href="https://github.com/KarGourav09/C_lab_programs_main"><b>C Lab Programs</b></a> — C programming lab exercises and practice programs.
+
+</details>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/KarGourav09">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KarGourav09&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight" alt="Gourav's GitHub stats" />
+  </a>
+  <a href="https://github.com/KarGourav09">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarGourav09&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/KarGourav09">
+    <img src="https://streak-stats.demolab.com?user=KarGourav09&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  </a>
+</div>
+
+---
+
+## ���� Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KarGourav09&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KarGourav09&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something meaningful together 🚀
+
+<a href="mailto:kar541049@gmail.com">Get in touch</a> · <a href="https://gourav-kar-portfolio.lovable.app">Visit my portfolio</a>
+
+</div>
